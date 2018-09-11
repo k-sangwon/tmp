@@ -10,7 +10,9 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import org.study.board.model.Board;
 
 import junit.framework.Assert;
-
+/**
+ * 긴급수정
+ */
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(locations = 
 	{ "file:src/main/webapp/WEB-INF/spring/**/root-context.xml"})
