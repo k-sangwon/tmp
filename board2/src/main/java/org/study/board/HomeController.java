@@ -25,6 +25,8 @@ public class HomeController {
 	 * server time을 로케일에 맞게 수정 요구
 	 * 
 	 * feature: 수정123
+	 *  수정 추가 
+	 * 
 	 * @param locals 시스템 로케일 값
 	 */
 	@RequestMapping(value = "/", method = RequestMethod.GET)
