@@ -23,6 +23,8 @@ public class HomeController {
 	 * root (/) 요청 처리하는 함수
 	 * locale 값을 dev branch에 맞게 수정
 	 * server time을 로케일에 맞게 수정 요구
+	 * 
+	 * feature: 수정123
 	 * @param locals 시스템 로케일 값
 	 */
 	@RequestMapping(value = "/", method = RequestMethod.GET)
